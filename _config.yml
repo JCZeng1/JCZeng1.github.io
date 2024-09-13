@@ -1,9 +1,1 @@
-remote_theme: pages-themes/midnight
-
-plugins:
-  - jekyll-remote-theme # This ensures the remote theme plugin is enabled
-
-title: "Your Site Title"
-description: "A short description of your site's purpose"
-
-# Optional: You can add other site-specific settings here if needed.
+theme: jekyll-theme-minimal
